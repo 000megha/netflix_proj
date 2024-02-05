@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+   &::-webkit-scrollbar{
+    display: none
+   }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Exo:wght@200&family=Roboto:wght@300&display=swap');
